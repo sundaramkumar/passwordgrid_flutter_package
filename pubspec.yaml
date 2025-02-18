@@ -1,0 +1,36 @@
+name: passwordgrid
+description: "Flutter Package to generate passwordgrid. This package supports iOS, Android, MacOS and web."
+version: 0.0.1
+homepage: https://www.kumarsundaram.com
+
+environment:
+  sdk: ^3.6.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+
+# Publisher Information
+repository: https://github.com/sundaramkumar/passwordgrid_flutter_package
+issue_tracker: https://github.com/sundaramkumar/passwordgrid_flutter_package/issues
+maintainers:
+  - "Kumar Sundaram <guyfromchennai@gmail.com>"
+
+# License
+license: MIT
+
+# Topics
+topics:
+  - password
+  - passwordgrid
+  - secure password
+  - password generator
