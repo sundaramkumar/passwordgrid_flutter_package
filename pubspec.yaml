@@ -2,7 +2,6 @@ name: passwordgrid
 description: "Flutter Package to generate passwordgrid. This package supports iOS, Android, MacOS and web."
 version: 0.0.1
 homepage: https://www.kumarsundaram.com
-publish_to: https://pub.dev
 
 environment:
   sdk: ^3.6.1
@@ -33,5 +32,5 @@ license: MIT
 topics:
   - password
   - passwordgrid
-  - secure password
-  - password generator
+  - secure-password
+  - password-generator
